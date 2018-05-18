@@ -8,7 +8,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="ThemeBucket">
 
-		<title>Alcohol Measurement</title>
+		<title>AlcolMeter</title>
 
 		<!--Core CSS -->
 		<link href="backend/panel/bs3/css/bootstrap.min.css" rel="stylesheet">

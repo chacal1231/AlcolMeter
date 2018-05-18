@@ -8,7 +8,7 @@
     <meta name="author" content="ThemeBucket">
     <link rel="shortcut icon" href="">
 
-    <title>Alcohol</title>
+    <title>AlcolMeter</title>
 
     <!--Core CSS -->
     <link href="backend/panel/bs3/css/bootstrap.min.css" rel="stylesheet">
@@ -135,7 +135,7 @@
                             <li>
                                 <a href="index.php">
                                     <i class="fa fa-dashboard"></i>
-                                    <span>Alcohol Measurement</span>
+                                    <span>AlcolMeter</span>
                                 </a>
                             </li>
                             <li class="sub-menu">
